@@ -25,11 +25,14 @@ public class AppTest
         System.out.println("postJira4");
         System.out.println("postJira5");
         System.out.println("postJira6");
-<<<<<<< HEAD
         System.out.println("postJira7"); 
         System.out.println("postJira8");
-=======
->>>>>>> 10cc4dbfebbec48ef61cf269d26bb11ee92574c2
+        
+        System.out.println("postJira9");
+        System.out.println("postJira10"); 
+        System.out.println("postJira11");
+        
+        System.out.println("postJira12");
     }
 
     /**
