@@ -18,6 +18,9 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        System.out.println("postJira1");
+        System.out.println("postJira2");
+        System.out.println("postJira3");
     }
 
     /**
